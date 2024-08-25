@@ -1,4 +1,4 @@
-# using while loop
+# using 'while' loop
 n=int(input("enter the number"))
 a,b=0,1
 while n>=0:
@@ -8,7 +8,7 @@ while n>=0:
     print(c)
     n=n-1
 
-# using for loop
+# using 'for' loop
 n=int(input("enter the number for fibonacci series= "))
 a,b=0,1
 print(a,b,end="")
