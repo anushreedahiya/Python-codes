@@ -1,3 +1,4 @@
+#without function
 n=int(input("enter a number= "))
 factorial=1
 if n<0:
